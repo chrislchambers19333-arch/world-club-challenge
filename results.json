@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 14, 2026 · 8 matches played",
+  "lastUpdated": "June 14, 2026 · 10 matches played",
   "results": {
     "Mexico": {
       "w": 1
@@ -33,6 +33,15 @@
     },
     "Australia": {
       "w": 1
+    },
+    "Germany": {
+      "w": 1
+    },
+    "Netherlands": {
+      "d": 1
+    },
+    "Japan": {
+      "d": 1
     }
   }
 }
