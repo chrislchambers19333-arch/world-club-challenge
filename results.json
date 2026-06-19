@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "June 18, 2026 · 24 matches played",
+  "lastUpdated": "June 19, 2026 · 28 matches played",
   "results": {
     "Mexico": {
-      "w": 1
+      "w": 2
     },
     "South Korea": {
       "w": 1
     },
     "Canada": {
+      "w": 1,
       "d": 1
     },
     "Bosnia & Herzegovina": {
@@ -20,6 +21,7 @@
       "d": 1
     },
     "Switzerland": {
+      "w": 1,
       "d": 1
     },
     "Brazil": {
@@ -99,6 +101,12 @@
     },
     "Colombia": {
       "w": 1
+    },
+    "Czechia": {
+      "d": 1
+    },
+    "South Africa": {
+      "d": 1
     }
   }
 }
