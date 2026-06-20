@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 19, 2026 · 28 matches played",
+  "lastUpdated": "June 20, 2026 · 32 matches played",
   "results": {
     "Mexico": {
       "w": 2
@@ -15,7 +15,7 @@
       "d": 1
     },
     "USA": {
-      "w": 1
+      "w": 2
     },
     "Qatar": {
       "d": 1
@@ -25,9 +25,11 @@
       "d": 1
     },
     "Brazil": {
+      "w": 1,
       "d": 1
     },
     "Morocco": {
+      "w": 1,
       "d": 1
     },
     "Scotland": {
@@ -107,6 +109,9 @@
     },
     "South Africa": {
       "d": 1
+    },
+    "Paraguay": {
+      "w": 1
     }
   }
 }
