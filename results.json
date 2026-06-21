@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 20, 2026 · 34 matches played",
+  "lastUpdated": "June 21, 2026 · 35 matches played",
   "results": {
     "Mexico": {
       "w": 2
@@ -113,6 +113,12 @@
     },
     "Paraguay": {
       "w": 1
+    },
+    "Ecuador": {
+      "d": 1
+    },
+    "Curaçao": {
+      "d": 1
     }
   }
 }
