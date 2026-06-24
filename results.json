@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 23, 2026 · 44 matches played",
+  "lastUpdated": "June 24, 2026 · 48 matches played",
   "results": {
     "Mexico": {
       "w": 2
@@ -94,19 +94,22 @@
       "w": 1
     },
     "Portugal": {
+      "w": 1,
       "d": 1
     },
     "DR Congo": {
       "d": 1
     },
     "England": {
-      "w": 1
+      "w": 1,
+      "d": 1
     },
     "Ghana": {
-      "w": 1
+      "w": 1,
+      "d": 1
     },
     "Colombia": {
-      "w": 1
+      "w": 2
     },
     "Czechia": {
       "d": 1
@@ -124,6 +127,9 @@
       "d": 1
     },
     "Algeria": {
+      "w": 1
+    },
+    "Croatia": {
       "w": 1
     }
   }
