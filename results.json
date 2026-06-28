@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 26, 2026 · 60 matches played",
+  "lastUpdated": "June 28, 2026 · 72 matches played",
   "results": {
     "Mexico": {
       "w": 3
@@ -59,52 +59,55 @@
       "d": 1
     },
     "Spain": {
-      "w": 1,
+      "w": 2,
       "d": 1
     },
     "Cape Verde": {
-      "d": 2
+      "d": 3
     },
     "Belgium": {
+      "w": 1,
       "d": 2
     },
     "Egypt": {
       "w": 1,
-      "d": 1
+      "d": 2
     },
     "Saudi Arabia": {
-      "d": 1
+      "d": 2
     },
     "Uruguay": {
       "d": 2
     },
     "Iran": {
-      "d": 2
+      "d": 3
     },
     "New Zealand": {
       "d": 1
     },
     "France": {
-      "w": 2
+      "w": 3
     },
     "Norway": {
       "w": 2
     },
     "Argentina": {
-      "w": 2
+      "w": 3
     },
     "Austria": {
-      "w": 1
+      "w": 1,
+      "d": 1
     },
     "Portugal": {
       "w": 1,
-      "d": 1
+      "d": 2
     },
     "DR Congo": {
+      "w": 1,
       "d": 1
     },
     "England": {
-      "w": 1,
+      "w": 2,
       "d": 1
     },
     "Ghana": {
@@ -112,7 +115,8 @@
       "d": 1
     },
     "Colombia": {
-      "w": 2
+      "w": 2,
+      "d": 1
     },
     "Czechia": {
       "d": 1
@@ -133,12 +137,16 @@
       "d": 1
     },
     "Algeria": {
-      "w": 1
+      "w": 1,
+      "d": 1
     },
     "Croatia": {
-      "w": 1
+      "w": 2
     },
     "Türkiye": {
+      "w": 1
+    },
+    "Senegal": {
       "w": 1
     }
   }
