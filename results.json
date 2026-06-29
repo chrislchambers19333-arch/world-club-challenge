@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 28, 2026 · 72 matches played",
+  "lastUpdated": "June 29, 2026 · 73 matches played",
   "results": {
     "Mexico": {
       "w": 3
@@ -9,7 +9,9 @@
     },
     "Canada": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Bosnia & Herzegovina": {
       "w": 1,
@@ -123,7 +125,8 @@
     },
     "South Africa": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Paraguay": {
       "w": 1,
