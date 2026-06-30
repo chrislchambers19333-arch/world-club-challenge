@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "June 29, 2026 · 73 matches played",
+  "lastUpdated": "June 29, 2026 · 75 matches played",
   "results": {
     "Mexico": {
       "w": 3
@@ -29,7 +29,9 @@
     },
     "Brazil": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Morocco": {
       "w": 2,
@@ -43,7 +45,8 @@
       "d": 1
     },
     "Germany": {
-      "w": 2
+      "w": 2,
+      "adv": true
     },
     "Netherlands": {
       "w": 2,
@@ -51,7 +54,8 @@
     },
     "Japan": {
       "w": 1,
-      "d": 2
+      "d": 2,
+      "adv": true
     },
     "Ivory Coast": {
       "w": 2
@@ -130,7 +134,8 @@
     },
     "Paraguay": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Ecuador": {
       "w": 1,
