@@ -1,8 +1,10 @@
 {
-  "lastUpdated": "June 29, 2026 · 75 matches played",
+  "lastUpdated": "July 1, 2026 · 79 matches played",
   "results": {
     "Mexico": {
-      "w": 3
+      "w": 3,
+      "adv": true,
+      "r32": true
     },
     "South Korea": {
       "w": 1
@@ -35,7 +37,9 @@
     },
     "Morocco": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Scotland": {
       "w": 1
@@ -50,7 +54,8 @@
     },
     "Netherlands": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Japan": {
       "w": 1,
@@ -58,11 +63,13 @@
       "adv": true
     },
     "Ivory Coast": {
-      "w": 2
+      "w": 2,
+      "adv": true
     },
     "Sweden": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Spain": {
       "w": 2,
@@ -92,10 +99,14 @@
       "d": 1
     },
     "France": {
-      "w": 3
+      "w": 3,
+      "adv": true,
+      "r32": true
     },
     "Norway": {
-      "w": 2
+      "w": 2,
+      "adv": true,
+      "r32": true
     },
     "Argentina": {
       "w": 3
@@ -135,11 +146,13 @@
     "Paraguay": {
       "w": 1,
       "d": 1,
-      "adv": true
+      "adv": true,
+      "r32": true
     },
     "Ecuador": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Curaçao": {
       "d": 1
