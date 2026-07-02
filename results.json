@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "July 1, 2026 · 79 matches played",
+  "lastUpdated": "July 2, 2026 · 82 matches played",
   "results": {
     "Mexico": {
       "w": 3,
@@ -17,10 +17,13 @@
     },
     "Bosnia & Herzegovina": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "USA": {
-      "w": 2
+      "w": 2,
+      "adv": true,
+      "r32": true
     },
     "Qatar": {
       "d": 1
@@ -80,7 +83,9 @@
     },
     "Belgium": {
       "w": 1,
-      "d": 2
+      "d": 2,
+      "adv": true,
+      "r32": true
     },
     "Egypt": {
       "w": 1,
@@ -121,11 +126,14 @@
     },
     "DR Congo": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "England": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Ghana": {
       "w": 1,
@@ -168,7 +176,8 @@
       "w": 1
     },
     "Senegal": {
-      "w": 1
+      "w": 1,
+      "adv": true
     }
   }
 }
