@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "July 2, 2026 · 82 matches played",
+  "lastUpdated": "July 4, 2026 · 88 matches played",
   "results": {
     "Mexico": {
       "w": 3,
@@ -30,7 +30,9 @@
     },
     "Switzerland": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Brazil": {
       "w": 2,
@@ -49,7 +51,8 @@
     },
     "Australia": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Germany": {
       "w": 2,
@@ -76,10 +79,13 @@
     },
     "Spain": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Cape Verde": {
-      "d": 3
+      "d": 3,
+      "adv": true
     },
     "Belgium": {
       "w": 1,
@@ -89,7 +95,9 @@
     },
     "Egypt": {
       "w": 1,
-      "d": 2
+      "d": 2,
+      "adv": true,
+      "r32": true
     },
     "Saudi Arabia": {
       "d": 2
@@ -114,15 +122,20 @@
       "r32": true
     },
     "Argentina": {
-      "w": 3
+      "w": 3,
+      "adv": true,
+      "r32": true
     },
     "Austria": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Portugal": {
       "w": 1,
-      "d": 2
+      "d": 2,
+      "adv": true,
+      "r32": true
     },
     "DR Congo": {
       "w": 1,
@@ -137,11 +150,14 @@
     },
     "Ghana": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Colombia": {
       "w": 2,
-      "d": 1
+      "d": 1,
+      "adv": true,
+      "r32": true
     },
     "Czechia": {
       "d": 1
@@ -167,10 +183,12 @@
     },
     "Algeria": {
       "w": 1,
-      "d": 1
+      "d": 1,
+      "adv": true
     },
     "Croatia": {
-      "w": 2
+      "w": 2,
+      "adv": true
     },
     "Türkiye": {
       "w": 1
