@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "July 4, 2026 · 88 matches played",
+  "lastUpdated": "July 6, 2026 · 92 matches played",
   "results": {
     "Mexico": {
       "w": 3,
@@ -44,7 +44,8 @@
       "w": 2,
       "d": 1,
       "adv": true,
-      "r32": true
+      "r32": true,
+      "r16": true
     },
     "Scotland": {
       "w": 1
@@ -114,12 +115,14 @@
     "France": {
       "w": 3,
       "adv": true,
-      "r32": true
+      "r32": true,
+      "r16": true
     },
     "Norway": {
       "w": 2,
       "adv": true,
-      "r32": true
+      "r32": true,
+      "r16": true
     },
     "Argentina": {
       "w": 3,
@@ -146,7 +149,8 @@
       "w": 2,
       "d": 1,
       "adv": true,
-      "r32": true
+      "r32": true,
+      "r16": true
     },
     "Ghana": {
       "w": 1,
