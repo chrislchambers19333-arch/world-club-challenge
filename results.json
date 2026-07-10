@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "July 8, 2026 · 96 matches played",
+  "lastUpdated": "July 10, 2026 · 97 matches played",
   "results": {
     "Mexico": {
       "w": 3,
@@ -119,7 +119,8 @@
       "w": 3,
       "adv": true,
       "r32": true,
-      "r16": true
+      "r16": true,
+      "qf": true
     },
     "Norway": {
       "w": 2,
