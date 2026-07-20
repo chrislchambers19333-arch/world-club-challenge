@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "July 19, 2026 · 103 matches played",
+  "lastUpdated": "July 20, 2026 · 104 matches played",
   "results": {
     "Mexico": {
       "w": 3,
@@ -86,7 +86,8 @@
       "r32": true,
       "r16": true,
       "qf": true,
-      "sf": true
+      "sf": true,
+      "champ": true
     },
     "Cape Verde": {
       "d": 3,
